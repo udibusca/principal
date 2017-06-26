@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<class-diagram version="1.2.0" icons="true" always-add-relationships="false" generalizations="true" realizations="true" 
+  associations="true" dependencies="false" nesting-relationships="true" router="FAN">  
+  <class id="1" language="java" name="br.com.gfinanceiro.controller.FornecedorController" project="app" 
+    file="/app/src/br/com/gfinanceiro/controller/FornecedorController.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="117" width="284" x="11" y="94"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="2" language="java" name="br.com.gfinanceiro.controller.LoginController" project="app" 
+    file="/app/src/br/com/gfinanceiro/controller/LoginController.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="135" width="288" x="335" y="94"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="3" language="java" name="br.com.gfinanceiro.controller.CategoriaController" project="app" 
+    file="/app/src/br/com/gfinanceiro/controller/CategoriaController.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="135" width="335" x="663" y="94"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="4" language="java" name="br.com.gfinanceiro.controller.ClienteController" project="app" 
+    file="/app/src/br/com/gfinanceiro/controller/ClienteController.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="135" width="335" x="1038" y="94"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="5" language="java" name="br.com.gfinanceiro.controller.MovimentacaoController" project="app" 
+    file="/app/src/br/com/gfinanceiro/controller/MovimentacaoController.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="117" width="284" x="1413" y="94"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="6" language="java" name="br.com.gfinanceiro.controller.UsuarioController" project="app" 
+    file="/app/src/br/com/gfinanceiro/controller/UsuarioController.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="117" width="284" x="1737" y="94"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <classifier-display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+    sort-features="false" accessors="true" visibility="true">    
+    <attributes public="true" package="true" protected="true" private="true" static="true"/>    
+    <operations public="true" package="true" protected="true" private="true" static="true"/>  
+  </classifier-display>  
+  <association-display labels="true" multiplicity="true"/>
+</class-diagram>
